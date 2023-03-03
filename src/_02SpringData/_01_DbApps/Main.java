@@ -1,4 +1,4 @@
-package _02SpringData._01DbAppsIntro;
+package _02SpringData._01_DbApps;
 import java.sql.*;
 import java.util.Properties;
 import java.util.Scanner;
