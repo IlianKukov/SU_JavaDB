@@ -1,2 +1,4 @@
-package _02SpringData;public class ph {
+package _02SpringData;
+
+public class ph {
 }
